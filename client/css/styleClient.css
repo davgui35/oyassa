@@ -1,0 +1,11 @@
+.invisible {
+  display: none;
+  background-color: #333 !important;
+  color: #f1f1f1 !important;
+}
+
+.active {
+  background-color: #fdd86e !important;
+  color: black !important;
+  border: none;
+}
